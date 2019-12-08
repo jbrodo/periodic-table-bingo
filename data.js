@@ -7,7 +7,7 @@ tableData = [
         "col": 1,
         "description": ":atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.",
         "url": "https://api.github.com/repos/nteract/hydrogen",
-        "stargazers_count": 2737
+        "stargazers_count": 3413
     },
     {
         "name": "Helium",
@@ -17,7 +17,7 @@ tableData = [
         "col": 18,
         "description": "A floating browser window for OS X",
         "url": "https://api.github.com/repos/JadenGeller/Helium",
-        "stargazers_count": 2949
+        "stargazers_count": 3373
     },
     {
         "name": "Lithium",
@@ -27,7 +27,7 @@ tableData = [
         "col": 1,
         "description": "li₃ is the fast, flexible and most RAD development framework for PHP",
         "url": "https://api.github.com/repos/UnionOfRAD/lithium",
-        "stargazers_count": 1099
+        "stargazers_count": 1125
     },
     {
         "name": "Beryllium",
@@ -35,9 +35,9 @@ tableData = [
         "symbol": "Be",
         "row": 2,
         "col": 2,
-        "description": "High performance SDK for building bots on Wire.",
-        "url": "https://api.github.com/repos/OmnijarBots/beryllium",
-        "stargazers_count": 9
+        "description": "Pocophone F1",
+        "url": "https://api.github.com/repos/franciscofranco/beryllium",
+        "stargazers_count": 22
     },
     {
         "name": "Boron",
@@ -47,7 +47,7 @@ tableData = [
         "col": 13,
         "description": "A collection of dialog animations with React.js",
         "url": "https://api.github.com/repos/yuanyan/boron",
-        "stargazers_count": 1416
+        "stargazers_count": 1460
     },
     {
         "name": "Carbon",
@@ -56,8 +56,8 @@ tableData = [
         "row": 2,
         "col": 14,
         "description": "🎨 Create and share beautiful images of your source code",
-        "url": "https://api.github.com/repos/dawnlabs/carbon",
-        "stargazers_count": 10589
+        "url": "https://api.github.com/repos/carbon-app/carbon",
+        "stargazers_count": 22369
     },
     {
         "name": "Nitrogen",
@@ -67,7 +67,7 @@ tableData = [
         "col": 15,
         "description": "Nitrogen Web Framework for Erlang (now with websockets!)",
         "url": "https://api.github.com/repos/nitrogen/nitrogen",
-        "stargazers_count": 839
+        "stargazers_count": 864
     },
     {
         "name": "Oxygen",
@@ -75,9 +75,9 @@ tableData = [
         "symbol": "O",
         "row": 2,
         "col": 16,
-        "description": "A basic theme for Drupal using the peroxide theme engine.",
-        "url": "https://api.github.com/repos/codeincarnate/oxygen",
-        "stargazers_count": 11
+        "description": "一个轻量级Java框架，包含ioc、aop、config、cache、job、Jdbc、web等",
+        "url": "https://api.github.com/repos/justlive1/oxygen",
+        "stargazers_count": 102
     },
     {
         "name": "Fluorine",
@@ -87,7 +87,7 @@ tableData = [
         "col": 17,
         "description": "[UNMAINTAINED] Reactive state and side effect management for React using a single stream of actions",
         "url": "https://api.github.com/repos/kitten/fluorine",
-        "stargazers_count": 296
+        "stargazers_count": 291
     },
     {
         "name": "Neon",
@@ -97,7 +97,7 @@ tableData = [
         "col": 18,
         "description": "A powerful Swift programmatic UI layout framework.",
         "url": "https://api.github.com/repos/mamaral/Neon",
-        "stargazers_count": 4286
+        "stargazers_count": 4547
     },
     {
         "name": "Sodium",
@@ -107,7 +107,7 @@ tableData = [
         "col": 1,
         "description": "Sodium - Functional Reactive Programming (FRP) Library for multiple languages",
         "url": "https://api.github.com/repos/SodiumFRP/sodium",
-        "stargazers_count": 645
+        "stargazers_count": 729
     },
     {
         "name": "Magnesium",
@@ -117,7 +117,7 @@ tableData = [
         "col": 2,
         "description": ":crystal_ball: A terminal emulator based on Electron.",
         "url": "https://api.github.com/repos/IonicaBizau/magnesium",
-        "stargazers_count": 32
+        "stargazers_count": 33
     },
     {
         "name": "Aluminium",
@@ -125,8 +125,8 @@ tableData = [
         "symbol": "Al",
         "row": 3,
         "col": 13,
-        "description": "A simple mod that adds aluminium to Minetest",
-        "url": "https://api.github.com/repos/ClobberXD/aluminium",
+        "description": "A simple PHP framework.",
+        "url": "https://api.github.com/repos/Falc/Aluminium",
         "stargazers_count": 2
     },
     {
@@ -137,7 +137,7 @@ tableData = [
         "col": 14,
         "description": "A high performance, middleware oriented C++14 http web framework",
         "url": "https://api.github.com/repos/matt-42/silicon",
-        "stargazers_count": 1513
+        "stargazers_count": 1682
     },
     {
         "name": "Phosphorus",
@@ -147,7 +147,7 @@ tableData = [
         "col": 15,
         "description": "JavaScript compiler for Scratch projects.",
         "url": "https://api.github.com/repos/nathan/phosphorus",
-        "stargazers_count": 202
+        "stargazers_count": 247
     },
     {
         "name": "Sulfur",
@@ -157,7 +157,7 @@ tableData = [
         "col": 16,
         "description": "Media manager written for the WordPress.com & Jetpack REST API.",
         "url": "https://api.github.com/repos/Automattic/sulfur",
-        "stargazers_count": 46
+        "stargazers_count": 44
     },
     {
         "name": "Chlorine",
@@ -167,7 +167,7 @@ tableData = [
         "col": 17,
         "description": "Dead Simple OpenCL",
         "url": "https://api.github.com/repos/Polytonic/Chlorine",
-        "stargazers_count": 414
+        "stargazers_count": 418
     },
     {
         "name": "Argon",
@@ -177,7 +177,7 @@ tableData = [
         "col": 18,
         "description": "The Plug And Play Backend. Based on pure JS and PHP",
         "url": "https://api.github.com/repos/benhmoore/Argon",
-        "stargazers_count": 324
+        "stargazers_count": 318
     },
     {
         "name": "Potassium",
@@ -187,7 +187,7 @@ tableData = [
         "col": 1,
         "description": "The father to every Platanus Rails project",
         "url": "https://api.github.com/repos/platanus/potassium",
-        "stargazers_count": 25
+        "stargazers_count": 40
     },
     {
         "name": "Calcium",
@@ -197,7 +197,7 @@ tableData = [
         "col": 2,
         "description": "fetch/parse school meals list from goverment.",
         "url": "https://api.github.com/repos/hibiyasleep/calcium",
-        "stargazers_count": 9
+        "stargazers_count": 11
     },
     {
         "name": "Scandium",
@@ -205,9 +205,9 @@ tableData = [
         "symbol": "Sc",
         "row": 4,
         "col": 3,
-        "description": "A toolkit for transformation webapps into desktop applications under QtWebKit.",
-        "url": "https://api.github.com/repos/mattbennett/scandium",
-        "stargazers_count": 39
+        "description": "🚀 Easily deploy any Node.js web server to AWS Lambda",
+        "url": "https://api.github.com/repos/LinusU/scandium",
+        "stargazers_count": 56
     },
     {
         "name": "Titanium",
@@ -217,7 +217,7 @@ tableData = [
         "col": 4,
         "description": "The Titanium Command Line (CLI) project",
         "url": "https://api.github.com/repos/appcelerator/titanium",
-        "stargazers_count": 209
+        "stargazers_count": 207
     },
     {
         "name": "Vanadium",
@@ -225,9 +225,9 @@ tableData = [
         "symbol": "V",
         "row": 4,
         "col": 5,
-        "description": "Vanadium, V23, Vanadis - Norse goddess of beauty and fertility, Element which name is closest to VALIDATION",
-        "url": "https://api.github.com/repos/lambder/Vanadium",
-        "stargazers_count": 124
+        "description": "Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositories and doesn't include patches not relevant to the build targets used on GrapheneOS.",
+        "url": "https://api.github.com/repos/GrapheneOS/Vanadium",
+        "stargazers_count": 40
     },
     {
         "name": "Chromium",
@@ -237,7 +237,7 @@ tableData = [
         "col": 6,
         "description": "The official GitHub mirror of the Chromium source",
         "url": "https://api.github.com/repos/chromium/chromium",
-        "stargazers_count": 697
+        "stargazers_count": 5214
     },
     {
         "name": "Manganese",
@@ -245,9 +245,9 @@ tableData = [
         "symbol": "Mn",
         "row": 4,
         "col": 7,
-        "description": "Download and organize manga on your computers using popular websites crawling.",
-        "url": "https://api.github.com/repos/jfmengels/manganese",
-        "stargazers_count": 6
+        "description": "Simple Manga Reader",
+        "url": "https://api.github.com/repos/SamwiseLee88/Manganese",
+        "stargazers_count": 0
     },
     {
         "name": "Iron",
@@ -257,7 +257,7 @@ tableData = [
         "col": 8,
         "description": "An Extensible, Concurrent Web Framework for Rust",
         "url": "https://api.github.com/repos/iron/iron",
-        "stargazers_count": 4889
+        "stargazers_count": 5594
     },
     {
         "name": "Cobalt",
@@ -265,9 +265,9 @@ tableData = [
         "symbol": "Co",
         "row": 4,
         "col": 9,
-        "description": "Open data APIs for interfacing with public information from the University of Toronto.",
-        "url": "https://api.github.com/repos/cobalt-uoft/cobalt",
-        "stargazers_count": 75
+        "stargazers_count": 0,
+        "url": "",
+        "description": ""
     },
     {
         "name": "Nickel",
@@ -277,7 +277,7 @@ tableData = [
         "col": 10,
         "description": "Nickel extracts date, time, and message information from naturally worded text.",
         "url": "https://api.github.com/repos/lzell/nickel",
-        "stargazers_count": 205
+        "stargazers_count": 203
     },
     {
         "name": "Copper",
@@ -285,9 +285,9 @@ tableData = [
         "symbol": "Cu",
         "row": 4,
         "col": 11,
-        "description": "[WIP] Your guide to programming ARM Cortex-M microcontrollers with Rust",
-        "url": "https://api.github.com/repos/japaric/copper",
-        "stargazers_count": 313
+        "description": "DEPRECATED in favor of https://github.com/rust-embedded/book",
+        "url": "https://api.github.com/repos/japaric-archived/copper",
+        "stargazers_count": 304
     },
     {
         "name": "Zinc",
@@ -297,7 +297,7 @@ tableData = [
         "col": 12,
         "description": "The bare metal stack for rust",
         "url": "https://api.github.com/repos/hackndev/zinc",
-        "stargazers_count": 987
+        "stargazers_count": 1015
     },
     {
         "name": "Gallium",
@@ -307,7 +307,7 @@ tableData = [
         "col": 13,
         "description": "Build desktop applications in Go and HTML.",
         "url": "https://api.github.com/repos/alexflint/gallium",
-        "stargazers_count": 3568
+        "stargazers_count": 3658
     },
     {
         "name": "Germanium",
@@ -315,9 +315,9 @@ tableData = [
         "symbol": "Ge",
         "row": 4,
         "col": 14,
-        "description": "Fuzz yer forms.",
-        "url": "https://api.github.com/repos/thefury/germanium",
-        "stargazers_count": 2
+        "description": "Helpful methods for Python Selenium",
+        "url": "https://api.github.com/repos/druids/germanium",
+        "stargazers_count": 3
     },
     {
         "name": "Arsenic",
@@ -327,7 +327,7 @@ tableData = [
         "col": 15,
         "description": "Async WebDriver implementation for asyncio and asyncio-compatible frameworks",
         "url": "https://api.github.com/repos/HDE/arsenic",
-        "stargazers_count": 53
+        "stargazers_count": 151
     },
     {
         "name": "Selenium",
@@ -337,7 +337,7 @@ tableData = [
         "col": 16,
         "description": "A browser automation framework and ecosystem.",
         "url": "https://api.github.com/repos/SeleniumHQ/selenium",
-        "stargazers_count": 10377
+        "stargazers_count": 16301
     },
     {
         "name": "Bromine",
@@ -357,7 +357,7 @@ tableData = [
         "col": 18,
         "description": "Krypton WinForms components for .NET",
         "url": "https://api.github.com/repos/ComponentFactory/Krypton",
-        "stargazers_count": 407
+        "stargazers_count": 866
     },
     {
         "name": "Rubidium",
@@ -367,7 +367,7 @@ tableData = [
         "col": 1,
         "description": ":hourglass: A small unique job scheduler.",
         "url": "https://api.github.com/repos/qubyte/rubidium",
-        "stargazers_count": 4
+        "stargazers_count": 6
     },
     {
         "name": "Strontium",
@@ -377,7 +377,7 @@ tableData = [
         "col": 2,
         "description": "The Strontium Library (SrL) is a collection of sketch recognition libraries for use on the JDK and Android",
         "url": "https://api.github.com/repos/eyce9000/strontium",
-        "stargazers_count": 11
+        "stargazers_count": 13
     },
     {
         "name": "Yttrium",
@@ -427,7 +427,7 @@ tableData = [
         "col": 7,
         "description": "Mercurial Centralized Issue Tracker and Report Generation ",
         "url": "https://api.github.com/repos/DrkSephy/technetium",
-        "stargazers_count": 20
+        "stargazers_count": 19
     },
     {
         "name": "Ruthenium",
@@ -437,7 +437,7 @@ tableData = [
         "col": 8,
         "description": "Ack-like search tool written in Rust",
         "url": "https://api.github.com/repos/birkenfeld/ruthenium",
-        "stargazers_count": 12
+        "stargazers_count": 15
     },
     {
         "name": "Rhodium",
@@ -447,7 +447,7 @@ tableData = [
         "col": 9,
         "description": "Python Library for Robust Decision Making and Exploratory Modelling",
         "url": "https://api.github.com/repos/Project-Platypus/Rhodium",
-        "stargazers_count": 24
+        "stargazers_count": 50
     },
     {
         "name": "Palladium",
@@ -457,7 +457,7 @@ tableData = [
         "col": 10,
         "description": "Framework for setting up predictive analytics services",
         "url": "https://api.github.com/repos/ottogroup/palladium",
-        "stargazers_count": 423
+        "stargazers_count": 464
     },
     {
         "name": "Silver",
@@ -467,7 +467,7 @@ tableData = [
         "col": 11,
         "description": "Automated billing and payments for Django with a REST API",
         "url": "https://api.github.com/repos/silverapp/silver",
-        "stargazers_count": 161
+        "stargazers_count": 220
     },
     {
         "name": "Cadmium",
@@ -475,9 +475,9 @@ tableData = [
         "symbol": "Cd",
         "row": 5,
         "col": 12,
-        "description": "A Swift framework that wraps CoreData, hides context complexity, and helps facilitate best practices.",
-        "url": "https://api.github.com/repos/jmfieldman/Cadmium",
-        "stargazers_count": 97
+        "description": "Natural Language Processing (NLP) library for Crystal",
+        "url": "https://api.github.com/repos/cadmiumcr/cadmium",
+        "stargazers_count": 134
     },
     {
         "name": "Indium",
@@ -487,7 +487,7 @@ tableData = [
         "col": 13,
         "description": "A JavaScript development environment for Emacs",
         "url": "https://api.github.com/repos/NicolasPetton/Indium",
-        "stargazers_count": 687
+        "stargazers_count": 960
     },
     {
         "name": "Tin",
@@ -507,7 +507,7 @@ tableData = [
         "col": 15,
         "description": "CAD from a parallel universe",
         "url": "https://api.github.com/repos/mkeeter/antimony",
-        "stargazers_count": 1471
+        "stargazers_count": 1694
     },
     {
         "name": "Tellurium",
@@ -515,9 +515,9 @@ tableData = [
         "symbol": "Te",
         "row": 5,
         "col": 16,
-        "description": "A utility pack to create maintainable and reliable UI tests using Selenium with additional support for ASP.NET MVC projects.",
-        "url": "https://api.github.com/repos/cezarypiatek/Tellurium",
-        "stargazers_count": 24
+        "description": "Python Environment for Modeling and Simulating Biological Systems",
+        "url": "https://api.github.com/repos/sys-bio/tellurium",
+        "stargazers_count": 40
     },
     {
         "name": "Iodine",
@@ -527,7 +527,7 @@ tableData = [
         "col": 17,
         "description": "Official git repo for iodine dns tunnel",
         "url": "https://api.github.com/repos/yarrick/iodine",
-        "stargazers_count": 2311
+        "stargazers_count": 3198
     },
     {
         "name": "Xenon",
@@ -535,9 +535,9 @@ tableData = [
         "symbol": "Xe",
         "row": 5,
         "col": 18,
-        "description": "Xenon - Decentralized Control Plane Framework",
-        "url": "https://api.github.com/repos/vmware/xenon",
-        "stargazers_count": 214
+        "description": "The MySQL Cluster Autopilot Management with GTID and Raft",
+        "url": "https://api.github.com/repos/radondb/xenon",
+        "stargazers_count": 347
     },
     {
         "name": "Cesium",
@@ -547,7 +547,7 @@ tableData = [
         "col": 1,
         "description": "An open-source JavaScript library for world-class 3D globes and maps :earth_americas:",
         "url": "https://api.github.com/repos/AnalyticalGraphicsInc/cesium",
-        "stargazers_count": 3106
+        "stargazers_count": 5197
     },
     {
         "name": "Barium",
@@ -597,7 +597,7 @@ tableData = [
         "col": 6,
         "description": ":metal: Atomic number soixante",
         "url": "https://api.github.com/repos/soixantecircuits/neodymium",
-        "stargazers_count": 13
+        "stargazers_count": 12
     },
     {
         "name": "Promethium",
@@ -606,8 +606,8 @@ tableData = [
         "row": 9,
         "col": 7,
         "description": null,
-        "url": "https://api.github.com/repos/promethius2018/promethium",
-        "stargazers_count": 0
+        "url": "https://api.github.com/repos/FabianTerhorst/Promethium",
+        "stargazers_count": 1
     },
     {
         "name": "Samarium",
@@ -626,7 +626,7 @@ tableData = [
         "row": 9,
         "col": 9,
         "description": null,
-        "url": "https://api.github.com/repos/lanthanoid/europium",
+        "url": "https://api.github.com/repos/anilgenclik/europium",
         "stargazers_count": 0
     },
     {
@@ -635,9 +635,9 @@ tableData = [
         "symbol": "Gd",
         "row": 9,
         "col": 10,
-        "description": null,
-        "url": "https://api.github.com/repos/lubolub1/Gadolinium",
-        "stargazers_count": 0
+        "description": "Tool using OpenAPI specified API file in order to test and visualize non-functional properties  (currently Latency and Uptime)",
+        "url": "https://api.github.com/repos/opendata-for-all/gadolinium",
+        "stargazers_count": 1
     },
     {
         "name": "Terbium",
@@ -645,9 +645,9 @@ tableData = [
         "symbol": "Tb",
         "row": 9,
         "col": 11,
-        "description": "advansed scaffold builder",
-        "url": "https://api.github.com/repos/pyromaniac/terbium",
-        "stargazers_count": 2
+        "description": "Terbium is a chemical element with the symbol Tb and atomic number 65.",
+        "url": "https://api.github.com/repos/Lokathor/terbium",
+        "stargazers_count": 1
     },
     {
         "name": "Dysprosium",
@@ -675,9 +675,9 @@ tableData = [
         "symbol": "Er",
         "row": 9,
         "col": 14,
-        "description": "Erbium - JavaScript Components",
-        "url": "https://api.github.com/repos/AlexanderElias/erbium",
-        "stargazers_count": 1
+        "description": "Light weight tool for detecting the current device's capabilities",
+        "url": "https://api.github.com/repos/e-sites/Erbium",
+        "stargazers_count": 2
     },
     {
         "name": "Thulium",
@@ -697,7 +697,7 @@ tableData = [
         "col": 16,
         "description": "An OSC capable audio synthesizer written in Rust",
         "url": "https://api.github.com/repos/klingtnet/ytterbium",
-        "stargazers_count": 1
+        "stargazers_count": 5
     },
     {
         "name": "Lutetium",
@@ -705,8 +705,8 @@ tableData = [
         "symbol": "Lu",
         "row": 9,
         "col": 17,
-        "description": "Lutetium GUI Platform",
-        "url": "https://api.github.com/repos/RTNelo/Lutetium",
+        "description": "move along nothing to see here",
+        "url": "https://api.github.com/repos/dequis/lutetium",
         "stargazers_count": 0
     },
     {
@@ -727,7 +727,7 @@ tableData = [
         "col": 5,
         "description": "WebGL 2D Light Transport",
         "url": "https://api.github.com/repos/tunabrain/tantalum",
-        "stargazers_count": 357
+        "stargazers_count": 406
     },
     {
         "name": "Tungsten",
@@ -737,7 +737,7 @@ tableData = [
         "col": 6,
         "description": "High performance physically based renderer in C++11",
         "url": "https://api.github.com/repos/tunabrain/tungsten",
-        "stargazers_count": 994
+        "stargazers_count": 1255
     },
     {
         "name": "Rhenium",
@@ -745,9 +745,9 @@ tableData = [
         "symbol": "Re",
         "row": 6,
         "col": 7,
-        "description": "MySQL replication relay service",
-        "url": "https://api.github.com/repos/vkandy/rhenium",
-        "stargazers_count": 2
+        "description": "Source code.",
+        "url": "https://api.github.com/repos/Rheniumnetwork/Rhenium",
+        "stargazers_count": 7
     },
     {
         "name": "Osmium",
@@ -757,7 +757,7 @@ tableData = [
         "col": 8,
         "description": "C++/Javascript framework for working with OSM files.",
         "url": "https://api.github.com/repos/joto/osmium",
-        "stargazers_count": 115
+        "stargazers_count": 120
     },
     {
         "name": "Iridium",
@@ -767,7 +767,7 @@ tableData = [
         "col": 9,
         "description": "Iridium is an extension built to improve your experience with the new YouTube Material layout",
         "url": "https://api.github.com/repos/ParticleCore/Iridium",
-        "stargazers_count": 707
+        "stargazers_count": 1213
     },
     {
         "name": "Platinum",
@@ -777,7 +777,7 @@ tableData = [
         "col": 10,
         "description": "UPnP SDK",
         "url": "https://api.github.com/repos/plutinosoft/Platinum",
-        "stargazers_count": 130
+        "stargazers_count": 262
     },
     {
         "name": "Gold",
@@ -785,9 +785,9 @@ tableData = [
         "symbol": "Au",
         "row": 6,
         "col": 11,
-        "description": "[DEPRECATED]Template engine for Go",
-        "url": "https://api.github.com/repos/yosssi/gold",
-        "stargazers_count": 154
+        "stargazers_count": 0,
+        "url": "",
+        "description": ""
     },
     {
         "name": "Mercury",
@@ -797,7 +797,7 @@ tableData = [
         "col": 12,
         "description": "A truly modular frontend framework",
         "url": "https://api.github.com/repos/Raynos/mercury",
-        "stargazers_count": 2764
+        "stargazers_count": 2831
     },
     {
         "name": "Thallium",
@@ -807,7 +807,7 @@ tableData = [
         "col": 13,
         "description": "A simple, extensible JavaScript test framework (work in progress)",
         "url": "https://api.github.com/repos/isiahmeadows/thallium",
-        "stargazers_count": 15
+        "stargazers_count": 18
     },
     {
         "name": "Lead",
@@ -825,9 +825,9 @@ tableData = [
         "symbol": "Bi",
         "row": 6,
         "col": 15,
-        "description": "The first Python blockchain platform",
+        "description": "[Migrated] The first Python blockchain protocol and platform",
         "url": "https://api.github.com/repos/hclivess/Bismuth",
-        "stargazers_count": 129
+        "stargazers_count": 188
     },
     {
         "name": "Polonium",
@@ -845,8 +845,8 @@ tableData = [
         "symbol": "At",
         "row": 6,
         "col": 17,
-        "description": "Astatine || At - Simple Small Ajax and HTML Form Library",
-        "url": "https://api.github.com/repos/AlexanderElias/astatine",
+        "description": null,
+        "url": "https://api.github.com/repos/cosmi/astatine",
         "stargazers_count": 1
     },
     {
@@ -855,9 +855,9 @@ tableData = [
         "symbol": "Rn",
         "row": 6,
         "col": 18,
-        "description": "Various code metrics for Python code",
-        "url": "https://api.github.com/repos/rubik/radon",
-        "stargazers_count": 796
+        "description": "RadonDB is an open source, cloud-native MySQL database for building global, scalable cloud services",
+        "url": "https://api.github.com/repos/radondb/radon",
+        "stargazers_count": 1189
     },
     {
         "name": "Francium",
@@ -867,7 +867,7 @@ tableData = [
         "col": 1,
         "description": "A small web programming library on top of reactive-banana and virtual-dom",
         "url": "https://api.github.com/repos/ocharles/Francium",
-        "stargazers_count": 81
+        "stargazers_count": 82
     },
     {
         "name": "Radium",
@@ -877,7 +877,7 @@ tableData = [
         "col": 2,
         "description": "A toolchain for React component styling.",
         "url": "https://api.github.com/repos/FormidableLabs/radium",
-        "stargazers_count": 6255
+        "stargazers_count": 7147
     },
     {
         "name": "Actinium",
@@ -887,7 +887,7 @@ tableData = [
         "col": 3,
         "description": "A 3rd party V2Ray client for Android",
         "url": "https://api.github.com/repos/V2Ray-Android/Actinium",
-        "stargazers_count": 289
+        "stargazers_count": 460
     },
     {
         "name": "Thorium",
@@ -895,9 +895,9 @@ tableData = [
         "symbol": "Th",
         "row": 10,
         "col": 4,
-        "description": "A simple RESTful API framework built on Flask.",
-        "url": "https://api.github.com/repos/EventMobi/thorium",
-        "stargazers_count": 20
+        "description": "Platform for starship simulator controls",
+        "url": "https://api.github.com/repos/Thorium-Sim/thorium",
+        "stargazers_count": 64
     },
     {
         "name": "Protactinium",
@@ -915,9 +915,9 @@ tableData = [
         "symbol": "U",
         "row": 10,
         "col": 6,
-        "description": "Universal css-in-js media queries for React Native and React",
-        "url": "https://api.github.com/repos/tuckerconnelly/uranium",
-        "stargazers_count": 114
+        "description": " A Python framework for building Desktop applications.",
+        "url": "https://api.github.com/repos/Ultimaker/Uranium",
+        "stargazers_count": 148
     },
     {
         "name": "Neptunium",
@@ -935,9 +935,9 @@ tableData = [
         "symbol": "Pu",
         "row": 10,
         "col": 8,
-        "description": null,
-        "url": "https://api.github.com/repos/jbpros/plutonium",
-        "stargazers_count": 13
+        "description": "An easy-to-use UI framework for Nintendo Switch homebrew",
+        "url": "https://api.github.com/repos/XorTroll/Plutonium",
+        "stargazers_count": 103
     },
     {
         "name": "Americium",
@@ -955,9 +955,9 @@ tableData = [
         "symbol": "Cm",
         "row": 10,
         "col": 10,
-        "description": "Curium - Web Component Library/Framework",
-        "url": "https://api.github.com/repos/AlexanderElias/curium",
-        "stargazers_count": 2
+        "description": "Storage for your immutable Scala objects.",
+        "url": "https://api.github.com/repos/sageserpent-open/curium",
+        "stargazers_count": 10
     },
     {
         "name": "Berkelium",
@@ -967,7 +967,7 @@ tableData = [
         "col": 11,
         "description": null,
         "url": "https://api.github.com/repos/berkelium/berkelium",
-        "stargazers_count": 26
+        "stargazers_count": 27
     },
     {
         "name": "Californium",
@@ -975,9 +975,9 @@ tableData = [
         "symbol": "Cf",
         "row": 10,
         "col": 12,
-        "description": null,
+        "description": "CoAP/DTLS Java Implementation ",
         "url": "https://api.github.com/repos/eclipse/californium",
-        "stargazers_count": 213
+        "stargazers_count": 403
     },
     {
         "name": "Einsteinium",
@@ -995,9 +995,9 @@ tableData = [
         "symbol": "Fm",
         "row": 10,
         "col": 14,
-        "description": "The fermium subproject. The core of this project is the baby growth tracking webpage, a page built with bootstrap and D3.",
-        "url": "https://api.github.com/repos/The-Victoria-Initiative/fermium",
-        "stargazers_count": 0
+        "description": "An easy to build and use set of SDL2 bindings.",
+        "url": "https://api.github.com/repos/Lokathor/fermium",
+        "stargazers_count": 15
     },
     {
         "name": "Mendelevium",
@@ -1015,8 +1015,8 @@ tableData = [
         "symbol": "No",
         "row": 10,
         "col": 16,
-        "description": "Nobelium Standalone Package based on Bootstrap.",
-        "url": "https://api.github.com/repos/bauwebster/Nobelium",
+        "description": "wayland compositor",
+        "url": "https://api.github.com/repos/mlde/nobelium",
         "stargazers_count": 0
     },
     {
@@ -1067,7 +1067,7 @@ tableData = [
         "col": 7,
         "description": "Automatic parallelization of Python/NumPy, C, and C++ codes on Linux and MacOSX",
         "url": "https://api.github.com/repos/bh107/bohrium",
-        "stargazers_count": 141
+        "stargazers_count": 194
     },
     {
         "name": "Hassium",
@@ -1077,7 +1077,7 @@ tableData = [
         "col": 8,
         "description": "Programming Language in C#",
         "url": "https://api.github.com/repos/HassiumTeam/Hassium",
-        "stargazers_count": 14
+        "stargazers_count": 16
     },
     {
         "name": "Meitnerium",
@@ -1087,7 +1087,7 @@ tableData = [
         "col": 9,
         "description": "Team Project for Code Quality Assignment",
         "url": "https://api.github.com/repos/BorisPenev/Meitnerium",
-        "stargazers_count": 0
+        "stargazers_count": 1
     },
     {
         "name": "Darmstadtium",
@@ -1105,9 +1105,9 @@ tableData = [
         "symbol": "Rg",
         "row": 7,
         "col": 11,
-        "description": "colorForth computing environment for x86 PCs.",
+        "description": "colorForth",
         "url": "https://api.github.com/repos/narke/Roentgenium",
-        "stargazers_count": 9
+        "stargazers_count": 0
     },
     {
         "name": "Copernicium",
@@ -1117,7 +1117,7 @@ tableData = [
         "col": 12,
         "description": "A playground for genetic algorithm development.",
         "url": "https://api.github.com/repos/The-Victoria-Initiative/copernicium",
-        "stargazers_count": 0
+        "stargazers_count": 1
     },
     {
         "name": "Nihonium",
@@ -1146,7 +1146,7 @@ tableData = [
         "row": 7,
         "col": 15,
         "description": null,
-        "url": "https://api.github.com/repos/rorz/Moscovium",
+        "url": "https://api.github.com/repos/ArtificialAmateur/moscovium",
         "stargazers_count": 0
     },
     {
@@ -1156,7 +1156,7 @@ tableData = [
         "row": 7,
         "col": 16,
         "description": null,
-        "url": "https://api.github.com/repos/kretash/Livermorium",
+        "url": "https://api.github.com/repos/nsmolenskii/livermorium",
         "stargazers_count": 0
     },
     {
@@ -1177,6 +1177,6 @@ tableData = [
         "col": 18,
         "description": "A parser for chemical formula strings.",
         "url": "https://api.github.com/repos/nathanhleung/oganesson",
-        "stargazers_count": 3
+        "stargazers_count": 4
     }
 ]
